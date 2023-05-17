@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InfernoDragneel.github.io%20%20/Portfolio-Paul/static/css/main.fb7027fe.css",
+    "main.js": "/InfernoDragneel.github.io%20%20/Portfolio-Paul/static/js/main.70409f29.js",
+    "static/js/787.1ed0c42c.chunk.js": "/InfernoDragneel.github.io%20%20/Portfolio-Paul/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/InfernoDragneel.github.io%20%20/Portfolio-Paul/index.html",
+    "main.fb7027fe.css.map": "/InfernoDragneel.github.io%20%20/Portfolio-Paul/static/css/main.fb7027fe.css.map",
+    "main.70409f29.js.map": "/InfernoDragneel.github.io%20%20/Portfolio-Paul/static/js/main.70409f29.js.map",
+    "787.1ed0c42c.chunk.js.map": "/InfernoDragneel.github.io%20%20/Portfolio-Paul/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb7027fe.css",
+    "static/js/main.70409f29.js"
+  ]
+}
